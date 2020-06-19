@@ -1,0 +1,8 @@
+1.Czy możemy sprawdzić jakie są prawa dostępu do plik.txt za pomocą ls -l?
+Tak ,bo mamy prawo w
+2.Czy możemy zmienić zawartość pliku plik.txt?
+Nie ,bo nie mamy prawa r do pliku
+3.Czy możemy usunąć plik plik.txt?
+Tak ,bo mamy prawo w 
+4.Czy możemy usunąć katalog kat?
+Nie ,bo nie mamy takiego prawa.

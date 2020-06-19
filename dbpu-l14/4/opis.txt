@@ -1,0 +1,6 @@
+//Co to "Secure Attention Key (SAK)"?
+Bezpieczny klawisz uwagi (SAK) lub bezpieczna sekwencja uwagi (SAS) to specjalny klawisz lub kombinacja klawiszy, które należy nacisnąć na klawiaturze komputera przed ekranem logowania, co musi być całkowicie godne zaufania dla użytkownika. Jądro systemu operacyjnego, które współdziała bezpośrednio ze sprzętem, jest w stanie wykryć, czy został naciśnięty klawisz bezpiecznej uwagi. Po wykryciu tego zdarzenia jądro rozpoczyna przetwarzanie zaufanego logowania. Klucz bezpiecznej uwagi został zaprojektowany tak, aby uniemożliwić fałszowanie danych logowania, ponieważ jądro zawiesi dowolny program, w tym programy udające proces logowania komputera, przed rozpoczęciem zaufanej operacji logowania.
+
+//Dlaczego przed logowaniem do Windows zaleca się naciśnięcie kombinacji Ctrl-Alt-Del (od czasu Windows NT)?
+Jeśli zostanie wyświetlony monit o zalogowanie się bez konieczności naciskania klawiszy Ctrl + Alt + Del w systemie skonfigurowanym do tego, nie wprowadzaj poświadczeń logowania, ponieważ oznacza to, że zły program przejął monit o zalogowanie się. Jeśli jesteś właścicielem komputera, uruchom go ponownie w trybie awaryjnym i usuń z niego wszelkie złośliwe oprogramowanie
+Dlatego ,że jesteśmy wtedy pewni ,że żaden program nie przejął monitu o zalogowanie się.Ctrl-Alt-Del jest to bezpieczny klawisz uwagi (SAK) systemu Windows.

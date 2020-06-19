@@ -1,0 +1,4 @@
+-Szpieg może zmodyfikować program który będzie podsłuchiwać użytkownika i wysylac wszystkie dane do siebie (robiąc to w tle)
+-Szpieg może też zepsuć program tak że odrazu będzie pojawiać się wysyłanie raportu o błędzie a tak naprawdę to szpieg będzie w ten sposob zbierać wrażliwe dane użytkownika.
+-Istnieja wirusy które przesyłają dane do twórcy.
+-Szpieg moze zalozyc podsluch uzytkownikowi bardzo latwo i użytkownik się nawet nie zorientuje

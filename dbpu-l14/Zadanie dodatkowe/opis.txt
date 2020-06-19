@@ -1,0 +1,7 @@
+//Wartości bajtów
+6f 66 20 e2 80 8b e2 80 8b 75 73 65 72
+
+//kody UTF8 
+\x6f\x66\x20\xe2\x80\x8b\xe2\x80\x8b\x75\x73\x65\x72
+
+Jak widać kody UTF8 powstają z wartości bajtów przez dodanie na początku \x a nastepnie jest umieszczona wartość bajtu.

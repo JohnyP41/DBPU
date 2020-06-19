@@ -1,0 +1,26 @@
+Polityka bezpieczeństwa dla karty
+
+WYPŁATA GOTÓWKI W BANKOMACIE
+
+nikomu nie ujawniaj numeru PIN, ani nie przechowuj go razem z kartą
+przed dokonaniem wypłaty upewnij się, że nikt Cię nie obserwuje
+wpisuj jak najdyskretniej numer PIN na klawiaturze bankomatu (możesz zasłonić wpisywane liczby ręką)
+zwróć uwagę na czytnik kart, klawiaturę oraz inne odstające części, upewnij się przed dokonaniem wypłaty, czy na bankomacie nie zostały zainstalowane podejrzane elementy
+trzykrotne błędne wprowadzenie numeru PIN spowoduje zatrzymanie karty przez bankomat – jest to zabezpieczenie przed użyciem karty przez osoby niepowołane; po zatrzymaniu karty przez bankomat możesz zgłosić się do oddziału banku obsługującego urządzenie
+pieniądze i potwierdzenie wypłaty są wydawane po zwróceniu karty przez bankomat, po zakończeniu transakcji pamiętaj o odbiorze karty
+bankomat nie wyda pieniędzy, jeżeli przekroczysz kwotę dostępnych limitów dla karty lub jeżeli żądana kwota przekracza stan wolnych środków – poinformuje Cię o tym komunikat na monitorze i możesz zmienić kwotę wypłaty
+pamiętaj, że wypłacone banknoty, które pojawią się w szczelinie bankomatu, mogą tam pozostać tylko przez 30 sekund,  po tym czasie urządzenie zabierze je z powrotem do kasety; jeżeli Twoje konto zostało obciążone kwotą transakcji, a Ty nie odebrałeś gotówki, złóż reklamację w oddziale Banku prowadzącym Twoje konto
+możesz ubezpieczyć swoją kartę  
+PŁATNOŚCI KARTĄ W SKLEPIE (poprzez terminal POS)
+
+przed potwierdzeniem płatności sprawdź kwotę płatności na terminalu
+nie wypuszczaj karty z ręki, jeśli podajesz sprzedawcy kartę, terminal i karta powinny znajdować się w zasięgu Twojego wzroku; możesz zapłacić zbliżeniowo do 50 zł, a powyżej tej kwoty potwierdzić operację kodem PIN
+odbierz potwierdzenie wykonania transakcji
+jeżeli chcesz zrezygnować z funkcji zbliżeniowości karty możesz wyłączyć funkcję poprzez konto internetowe lub zgłosić się do najbliższej placówki Banku, funkcję tę możesz aktywować w każdej chwili w taki sam sposób
+PŁATNOŚCI KARTĄ PRZEZ INTERNET
+
+do połączeń z internetem korzystaj tylko z urządzeń posiadających aktualizowane  programy antywirusowe oraz zapory ogniowe
+unikaj płatności z urządzeń znajdujących się w kafejkach internetowych lub innych ogólnodostępnych miejsc
+upewnij się, że na stronie rejestracji do sklepu internetowego połączenie jest szyfrowane (strona rozpoczyna się od https:// czy znajduje się zamknięta kłódka oraz czy certyfikat bezpieczeństwa jest aktualny i wystawiony właśnie dla tej witryny (informację o nazwie certyfikatu bezpieczeństwa znajdziesz w pasku adresowym w przeglądarce) 
+ustal limity transakcji przez internet dostosowane do Twoich potrzeb (możesz je zmienić poprzez konto internetowe)
+Pamiętaj, że w każdej chwili możesz czasowo zablokować i odblokować kartę poprzez konto internetowe.

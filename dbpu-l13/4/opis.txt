@@ -1,0 +1,23 @@
+//Podaj przykład kilku narzędzi (np. do wygodnej deasemblacji kodu) i opisz krótko ich możliwości. 
+IDA Pro (Interactive Disassembler) program wyprodukowany przez firmę Hex-Rays, który umożliwia deasemblację innych programów działających w systemie Linux, OS X lub Windows. Program najczęściej wykorzystywany jest w ramach inżynierii odwrotnej (także w crackingu oprogramowania)
+
+Radare2 to narzędzie typu open source do deasemblowania, debugowania, analizowania i manipulowania plikami binarnymi.
+Obsługuje wiele architektur (x86 {16,32,64}, Dalvik, avr, ARM, java, PowerPC, Sparc, MIPS) i kilka formatów binarnych (pe {32,64}, [fat] mach0 {32,64} , ELF {32,64}, klasy dex i Java), oprócz obsługi obrazów systemu plików i wielu innych funkcji.
+
+Ghidra to platforma inżynierii wstecznej oprogramowania (SRE) stworzona i utrzymywana przez Dyrekcję ds. Badań Narodowych Agencji Bezpieczeństwa. Windows, Mac OS i Linux.
+
+Binary Ninja to platforma inżynierii odwrotnej. Koncentruje się na czystym i łatwym w użyciu interfejsie z potężną analizą wielowątkową zbudowaną na niestandardowej IL, aby szybko dostosować się do różnych architektur, platform i kompilatorów. Działa w systemach macOS, Windows i Linux.
+
+Hopper to narzędzie do inżynierii wstecznej dla systemów macOS i Linux, które pozwala deasemblować, dekompilować i debugować (tylko OS X) pliki wykonywalne Intel Mac, Windows i iOS (ARM) w wersji 32 / 64bits.
+
+Medusa to dezasembler typu open source z obsługą x86, x64, z80 i częściową obsługą ARM. Działa w systemie Windows i Linux. Ma interaktywne widoki płaskich i graficznych.
+
+//Które z nich są Open Source?
+Medusa,Radare2
+
+//Za darmo?
+IDA
+Radare2
+Ghidra
+Hopper
+Medusa
