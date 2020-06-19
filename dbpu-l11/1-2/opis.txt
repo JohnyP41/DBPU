@@ -1,0 +1,4 @@
+Do zabezpieczenia tej aplikacji użyjemy DRM.
+W spotykanych obecnie systemach DRM, dostawca treści, zanim przekaże dane odbiorcy, zabezpiecza je przed odczytem przez zaszyfrowanie (lub zastosowanie innej transformacji mającej na celu utrudnienie odtworzenia pierwotnej postaci pliku). Informacje niezbędne do odszyfrowania danych nie są ujawniane odbiorcy, a jedynie zaszyte w odpowiednio zaprojektowanej aplikacji lub platformie sprzętowej (np. komputerze PC z układami TCPA albo w odtwarzaczu multimedialnym).
+
+Dzięki wykorzystaniu tej architektury, dostawca może wymusić na użytkowniku niedysponującym odpowiednim zapleczem technicznym dowolnie zdefiniowane zasady korzystania z dostarczonych treści (np. może ograniczyć liczbę wykonywanych kopii, pozbawić go możliwości modyfikacji danych), czy wręcz odebrać użytkownikowi jakiekolwiek możliwości odczytu treści po upływie zadanego czasu.

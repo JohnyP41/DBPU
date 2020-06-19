@@ -1,0 +1,16 @@
+Metoda:
+Wykonujemy podane poniżej kroki
+zaciemnianie kodu
+zaciemnianie wartości zmiennych
+łączenie zmiennych (np. w wielobajtowe)
+dzielenie zmiennych
+stosowanie wskaźników na funkcje
+reorganizacja tablic
+ukrywanie łańcuchów znaków
+samomodyfikujący się kod
+
+
+Cechy metody:
+-efektywna
+-szybka
+-prosta
