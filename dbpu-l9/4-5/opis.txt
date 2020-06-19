@@ -1,0 +1,42 @@
+\\C#
+s426228@lts:~/Desktop/DBPU/dbpu-l9/4-5$ time ./main.exe
+6	6	6	
+12	12	12	
+18	18	18	
+
+real	0m0,243s
+user	0m0,038s
+sys	0m0,065s
+
+\\Python
+s426228@lts:~/Desktop/DBPU/dbpu-l9/4-5$ time python main.py 
+[6, 12, 18]
+[6, 12, 18]
+[6, 12, 18]
+
+real	0m0,012s
+user	0m0,009s
+sys	0m0,000s
+
+\\Java
+s426228@lts:~/Desktop/DBPU/dbpu-l9/4-5$ time java main
+6 6 6 
+12 12 12 
+18 18 18 
+
+real	0m0,041s
+user	0m0,042s
+sys	0m0,012s
+
+\\C++
+s426228@lts:~/Desktop/DBPU/dbpu-l9/4-5$ time ./a.out 
+6 6 6 
+12 12 12 
+18 18 18 
+
+real	0m0,002s
+user	0m0,001s
+sys	0m0,000s
+
+Najszybciej działa program w C++.
+Najbardziej odporny na błędy jest program w Pythonie.

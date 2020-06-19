@@ -1,0 +1,4 @@
+//Kompilacja
+g++ main.cpp -o main
+//Uruchomienie
+./main

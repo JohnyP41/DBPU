@@ -1,0 +1,10 @@
+Co to daje (wyjaśnić i podać źródła)?//
+CRT może być użyty do przyspieszenia obliczeń dla algorytmu RSA.
+W celu zwiększenia wydajności wiele popularnych bibliotek kryptograficznych (takich jak OpenSSL, Java i .NET) stosuje następującą optymalizację do deszyfrowania i podpisywania w oparciu CRT.
+Źródła:
+https://en.wikipedia.org/wiki/RSA_(cryptosystem)#Using_the_Chinese_remainder_algorithm
+https://www.di-mgt.com.au/crt_rsa.html
+
+Jakie są niebezpieczeństwa z tym związane?//
+RSA z CRT jest podatne na Timing ataki.
+W 2003 r. Boneh i Brumley zademonstrowali bardziej praktyczny atak zdolny do odzyskania faktoryzacji RSA przez połączenie sieciowe (np. Z serwera sieciowego z włączoną funkcją Secure Sockets Layer (SSL)) W tym ataku wykorzystano informacje wyciekłe przez chińskie twierdzenie o resztach stosowane przez wiele implementacji RSA.
