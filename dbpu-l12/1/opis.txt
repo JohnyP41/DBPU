@@ -1,0 +1,2 @@
+Przykład flaw:
+iOS 6 miał bład typu flaw w hasłach mobilnych hotspotów. Haker może wykonać prosty atak słownikowy / brute-force, aby odzyskać to hasło.

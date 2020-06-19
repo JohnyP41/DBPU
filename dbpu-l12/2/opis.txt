@@ -1,0 +1,4 @@
+1.Można zmniejszyć liczbę zestawów by szybciej można zakończyć przedmiot.
+2.Można dodać więcej punktów dodatkowych aby łatwiej można zdobyć najwyższą ocenę.
+3.Można też dodać wiecej narzędzi do analizy bezpieczeństwa aplikacji aby student mógł poznać ich więcej.
+4.Można by naprawić sprawdzanie obecnośći aby można ją zgłosić.
