@@ -1,0 +1,38 @@
+///Przed zmianą kolejnosci pętli
+==1607== 
+==1607== I   refs:      38,102,453
+==1607== I1  misses:         1,760
+==1607== LLi misses:         1,677
+==1607== I1  miss rate:       0.00%
+==1607== LLi miss rate:       0.00%
+==1607== 
+==1607== D   refs:      12,021,679  (11,083,296 rd   + 938,383 wr)
+==1607== D1  misses:        21,573  (    17,384 rd   +   4,189 wr)
+==1607== LLd misses:        11,250  (     7,961 rd   +   3,289 wr)
+==1607== D1  miss rate:        0.2% (       0.2%     +     0.4%  )
+==1607== LLd miss rate:        0.1% (       0.1%     +     0.4%  )
+==1607== 
+==1607== LL refs:           23,333  (    19,144 rd   +   4,189 wr)
+==1607== LL misses:         12,927  (     9,638 rd   +   3,289 wr)
+==1607== LL miss rate:         0.0% (       0.0%     +     0.4%  )
+
+///Po zmianie kolejności petli
+==19411== 
+==19411== I   refs:      38,374,560
+==19411== I1  misses:         1,762
+==19411== LLi misses:         1,679
+==19411== I1  miss rate:       0.00%
+==19411== LLi miss rate:       0.00%
+==19411== 
+==19411== D   refs:      12,223,552  (11,209,778 rd   + 1,013,774 wr)
+==19411== D1  misses:        18,344  (    14,168 rd   +     4,176 wr)
+==19411== LLd misses:        11,252  (     8,412 rd   +     2,840 wr)
+==19411== D1  miss rate:        0.2% (       0.1%     +       0.4%  )
+==19411== LLd miss rate:        0.1% (       0.1%     +       0.3%  )
+==19411== 
+==19411== LL refs:           20,106  (    15,930 rd   +     4,176 wr)
+==19411== LL misses:         12,931  (    10,091 rd   +     2,840 wr)
+==19411== LL miss rate:         0.0% (       0.0%     +       0.3%  )
+
+Jak widać miss rate się zmienił.
+Brak wycieków pamięci

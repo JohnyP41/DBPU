@@ -1,0 +1,1 @@
+Aby się zabezpieczyć możemy wysyłać odpowiedź od serwera zawsze po tym samym czasie. Wtedy różnica będzie 0.

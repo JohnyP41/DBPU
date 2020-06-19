@@ -1,0 +1,64 @@
+//Przekazywanie argumentów przez wartość
+zwieksz(liczba)
+{
+    liczba=liczba * 2;
+    return liczba;
+}
+
+main()
+{
+   dlugosc = 125;
+   dlugosc = zwieksz(dlugosc);
+
+   print(dlugosc);
+}
+
+//Przekazywanie argumentów przez wskaźnik
+zwieksz_kilka(*dl, *wys,*waga)
+{
+	*dl = *dl * 2;
+    *wys = *wys * 2;
+    *waga = *waga * 2;
+}
+main()
+{
+	dlugosc = 125;
+    wysokosc = 300;
+    waga = 20;
+
+     *wsk_dlugosc = &dlugosc;
+     *wsk_wysokosc = &wysokosc;
+     *wsk_waga = &waga;
+
+    zwieksz_kilka(wsk_dlugosc, wsk_wysokosc, wsk_waga);
+
+    print(dlugosc);
+    print(wysokosc);
+    print(waga);
+}
+
+//Przekazywanie argumentów przez referencję
+zmien(&liczba)
+{
+    liczba = 123456;
+}
+
+main()
+{
+    test = 0;
+    zmien(test);
+    print(test);
+}
+
+//Przekazywanie tablic jako argument funkcji
+wyswietl(tab[])
+{
+    for (int i = 0; i<6; i++)
+        print([i]);
+}
+
+main()
+{
+    tablica[6] = {1,2,3,4,5,6};
+    wyswietl(tablica);
+}

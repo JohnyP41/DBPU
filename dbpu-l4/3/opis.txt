@@ -1,0 +1,6 @@
+///Bez blokad
+W wersji bez blokad wynik był niepoprawny (Wynik: 9998673) natomiast czas wyniósł około 38 s.
+///Z blokadami
+W wersji z blokadami wynik był poprawny a czas wynosił około 22 s.
+///Na jednym wątku
+W tej wersji wynik był poprawny a czas wynosił około 21 s.

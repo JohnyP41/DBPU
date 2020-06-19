@@ -1,0 +1,20 @@
+module policy 1.0;
+
+require {
+  type nc_t;
+  type etc_t;
+  type lib_t;
+  type uuidd_t;
+  type unconfined_service_t;
+  class unix_socket_stream { connectto getattr ioctl read write };
+  class file { create getattr map open read rename write setattr };
+  class tcp_socket { bind create listen setopt };
+  class udp_socket { bind create setopt };
+}
+
+#============= nc_t ==============
+allow nc_t etc_t:file { create open write };
+allow nc_t lib_t:file { create open write };
+allow nc_t uuidd_t:unix_socket_stream { connectto read write };
+allow nc_t unconfined_service_t:tcp_socket { bind create listen setopt };
+allow nc_t unconfined_service_t:udp_socket { bind create setopt };

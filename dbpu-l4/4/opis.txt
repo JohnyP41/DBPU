@@ -1,0 +1,15 @@
+\\\Wersja bez blokad
+==31848== For counts of detected and suppressed errors, rerun with: -v
+==31848== Use --history-level=approx or =none to gain increased speed, at
+==31848== the cost of reduced accuracy of conflicting-access information
+==31848== ERROR SUMMARY: 10000000 errors from 9 contexts (suppressed: 24304639 from 86)
+\\Wersja z blokadami
+==7762== For counts of detected and suppressed errors, rerun with: -v
+==7762== Use --history-level=approx or =none to gain increased speed, at
+==7762== the cost of reduced accuracy of conflicting-access information
+==7762== ERROR SUMMARY: 1 errors from 1 contexts (suppressed: 3 from 2)
+//Wersja na jednym wątku
+==9237== For counts of detected and suppressed errors, rerun with: -v
+==9237== Use --history-level=approx or =none to gain increased speed, at
+==9237== the cost of reduced accuracy of conflicting-access information
+==9237== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
